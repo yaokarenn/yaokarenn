@@ -4,7 +4,7 @@
   - [Active Directory Home Lab](https://github.com/yaokarenn/LABURL)
   - [Hello World!](https://github.com/yaokarenn/LABURL)
 
-<h2📄 Certifications:</h2>
+<h2>📄 Certifications:</h2>
 
   - [Active Directory Home Lab](https://github.com/yaokarenn/LABURL)
 
