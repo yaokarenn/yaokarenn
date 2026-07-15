@@ -32,7 +32,6 @@
 </td>
 <td valign="top" width="45%" style="word-wrap: break-word; font-family: 'CamingoCode', Consolas, 'Courier New', monospace; font-size: 14px;">
 <h1>Hi, I'm Karen!</h1>
-<hr>
 <h2>Projects:</h2>
 <ul>
 <li><a href="https://github.com/yaokarenn/NYC-Housing-Crisis">NYC Housing Crisis</a></li>
