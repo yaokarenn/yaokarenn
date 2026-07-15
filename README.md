@@ -35,6 +35,7 @@
 <h2>Projects:</h2>
 <ul>
 <li><a href="https://github.com/yaokarenn/NYC-Housing-Crisis">NYC Housing Crisis</a></li>
+<li><a href="https://github.com/yaokarenn/Predictive-Site-Selection">Predictive Site Selection</a></li>
 <li><a href="https://github.com/yaokarenn/Conways-Game-of-Life">Conway's Game of Life</a></li>
 </ul>
 <h2>Languages I know:</h2>
