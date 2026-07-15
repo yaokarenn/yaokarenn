@@ -28,24 +28,22 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢯⣏⡴⣶⣵⣢⢤⢠⡀⡄⢠⠐⡰⢌⡱⠀⡁⡀⠆⡥⠆⡥⣛⡽⣾
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠔⠉⠀⠀⢽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣼⣻⢷⣯⡽⣞⣷⣻⡼⣡⢋⡔⠣⠜⡐⢐⠠⡓⣤⣙⣲⣽⣻⢷
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡿⣽⣞⣷⣻⡴⣣⢜⡱⣊⡕⣊⠠⡙⡰⣭⢷⣯⣿⢿
-
 </div>
 </td>
-<td valign="top" width="45%" style="word-wrap: break-word;">
+<td valign="top" width="45%" style="word-wrap: break-word; font-family: 'CamingoCode', Consolas, 'Courier New', monospace; font-size: 14px;">
 <h1>Hi, I'm Karen!</h1>
 <hr>
 <h2>Projects:</h2>
 <ul>
-<li><a href="https://github.com/yaokarenn/LABURL">Active Directory Home Lab</a></li>
-<li><a href="https://github.com/yaokarenn/LABURL">Hello World!</a></li>
+<li><a href="https://github.com/yaokarenn/NYC-Housing-Crisis">NYC Housing Crisis</a></li>
+<li><a href="https://github.com/yaokarenn/Conways-Game-of-Life">Conway's Game of Life</a></li>
 </ul>
 <h2>Languages I know:</h2>
 <p>Python, C++, Java</p>
-<h2>Spoken Languages:</h2>
-<p>English, Chinese, Spanish</p>
 <h2>Certifications:</h2>
 <ul>
-<li><a href="https://github.com/yaokarenn/LABURL">Active Directory Home Lab</a></li>
+<li>AWS AI & ML Scholar - Amazon Web Services (AWS)</li>
+<li>GitHub Foundations - GitHub</li>
 </ul>
 <h2>Connect with me:</h2>
 <p>
