@@ -41,10 +41,6 @@
 </ul>
 <h2>Languages I know:</h2>
 <p>Python, C++, Java</p>
-<h2>Certifications:</h2>
-<ul>
-<li>AWS AI & ML Scholar - Amazon Web Services (AWS)</li>
-<li>GitHub Foundations - GitHub</li>
 </ul>
 <h2>Connect with me:</h2>
 <p>
